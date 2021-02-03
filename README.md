@@ -1,5 +1,5 @@
 ### Hi, I'm Rahim, an Electronik and Communication Engineer.
-I am currently learning software development with C#. I’m currently working on CryptoBoard what's a portfolio management system.
+I am currently learning software development with C#. I’m working on CryptoBoard what's a portfolio management system.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rahimcubuk&show_icons=true&theme=dark) 
 
